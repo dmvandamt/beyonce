@@ -11,6 +11,13 @@ Welcome to BeyonCE's documentation!
    :caption: Contents:
 
 
+About this documentation
+========================
+
+This documentation has been written by Dirk van Dam and hopes to provide an adequate description of the working and usage of the BeyonCE software package.
+If there is anything that could be documented better or some other issue please reach out or create an issue on the GitHub repository (`https://www.github.com/dmvandamt/beyonce`_)
+
+
 
 Indices and tables
 ==================
